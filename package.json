@@ -4,7 +4,6 @@
   "description": "",
   "main": "api/api.js",
   "scripts": {
-    "start": "vercel dev",
     "dev": "nodemon api/api.js"
   },
   "keywords": [],
